@@ -105,9 +105,9 @@ export const InfiniteMovingCards = ({
                 {item.quote}
               </span>
               <div className="relative z-20 text-sm md:text-lg mt-6 flex flex-row items-center">
-                <span className="flex flex-col gap-1">
-                    <div className="me-3">
-                        <Image src="/anonymus_user.png" alt="profile" />
+                <span className="flex items-center gap-2">
+                    <div className="relative w-10 h-10">
+                        <Image src="/anonymus_user.png" alt="profile" layout='fill' objectFit='contain' />
                     </div>
                     <div className="flex flex-col gap-1">
                   <span className=" text-xl leading-[1.6] text-white font-bold">

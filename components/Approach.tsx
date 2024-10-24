@@ -28,7 +28,7 @@ const Approach =()=> {
         >
           <CanvasRevealEffect
             animationSpeed={3}
-            containerClassName="bg-black"
+            containerClassName="bg-red-700"
             colors={[
               [236, 72, 153],
               [232, 121, 249],
