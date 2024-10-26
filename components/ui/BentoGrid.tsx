@@ -1,5 +1,5 @@
 'use client'
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import { cn } from "@/utils/cn";
 import { BackgroundGradientAnimation } from "./GradientBg";
 import GridGlobe from "./GridGlobe";

@@ -45,7 +45,7 @@ export const navItems = [
       imgClassName: "",
       titleClassName: "justify-start",
       img: "/grid.svg",
-      spareImg: "",
+      spareImg: "/b4.svg",
     },
   
     {
