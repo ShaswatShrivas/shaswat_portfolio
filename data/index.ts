@@ -76,7 +76,7 @@ export const navItems = [
       title: "Shazverse",
       des: " An enthralling movie platform that serves as a portal to a vast cinematic realm, delivering a unique and immersive experience for the user",
       img: "/p1.png",
-      iconLists: ["/next.svg", "/mongodb.svg", "/looka.svg"],
+      iconLists: ["/next.svg", "/mongodb.svg", "/Looka.svg"],
       link: "https://shazverse-themovieverse.vercel.app/",
     },
     {
