@@ -83,7 +83,7 @@ export const navItems = [
       id: 2,
       title: "BeatDHacker",
       des: "A dynamic, gamified platform dedicated to raising global awareness about cybersecurity and hacking systems. This project is the culmination of 12 days of hard work, passion, and the desire to make cybersecurity knowledge accessible to everyone—beginners and experts alike.",
-      img: "/BeatdHacker.svg",
+      img: "/BeatDHacker.svg",
       iconLists: ["/react_logo.svg","/Js.svg", "/html.svg", "/css.svg"],
       link: "https://beatdhacker.vercel.app",
     },
