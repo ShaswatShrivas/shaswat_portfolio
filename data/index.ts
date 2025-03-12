@@ -50,7 +50,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently enhancing my skills in Next.js, JavaScript, and DSA",
+      title: "Currently enhancing my skills in Angular and NestJs",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -81,28 +81,37 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Beat-The-Hacker",
-      des: "An engaging and educational game offering users an interactive experience to understand hacker tactics and learn effective countermeasures through a series of informative questions.",
-      img: "/p2.png",
-      iconLists: ["/Js.svg", "/html.svg", "/css.svg"],
-      link: "https://github.com/ShaswatShrivas/Beat-The-Hacker",
+      title: "BeatDHacker",
+      des: "A dynamic, gamified platform dedicated to raising global awareness about cybersecurity and hacking systems. This project is the culmination of 12 days of hard work, passion, and the desire to make cybersecurity knowledge accessible to everyone—beginners and experts alike.",
+      img: "/BeatdHacker.svg",
+      iconLists: ["/react_logo.svg","/Js.svg", "/html.svg", "/css.svg"],
+      link: "https://beatdhacker.vercel.app",
     },
     {
       id: 3,
-      title: "AI_Desktop_Assistant",
-      des: "An AI_Desktop Assistant that works on your laptop just like Siri and Alexa. WIth some pre-inserted commands, it perform basic commands like running youtube,opening browser, opening whatsapp and much more.",
-      img: "/p3.jpg",
-      iconLists: ["/py.svg"],
-      link: "https://github.com/ShaswatShrivas/AI_Desktop_Assistant",
+      title: "Forcastǐfy",
+      des: "Forcastǐfy is a desktop weather app built with Electron, React, and Vite. It shows the user's current location weather and allows searching for weather in other locations. The app provides real-time updates with a sleek and responsive UI.",
+      img: "/forecastiify.jpg",
+      iconLists: ["/electronjs.jpg","/react_logo.svg","/Js.svg", "/html.svg", "/css.svg"],
+      link: "https://github.com/ShaswatShrivas/forecastify",
     },
-    // {
-    //   id: 4,
-    //   title: "Animated 3D Website",
-    //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    //   img: "/p4.svg",
-    //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    //   link: "https://github.com/adrianhajdin/iphone",
-    // },
+    {
+      id: 4,
+      title: "SixtyThreestudios",
+      des: "Sixtyʒstudios is an immersive, responsive web portfolio designed to showcase skills in frontend development, digital design, motion graphics, and creative technology. The site leverages smooth animations with GSAP and custom scroll effects with Locomotive Scroll to create a dynamic user experience.",
+      img: "/63studios.png",
+      iconLists: ["/react_logo.svg","/Js.svg", "/html.svg", "/css.svg", "/gsap.svg"],
+      link: "https://sixtythreestudios.vercel.app",
+    },
+    {
+      id: 5,
+      title: "ImageInfinity",
+      des: "A website that displays an image gallery using APIs, allowing users to view and download a variety of images.",
+      img: "/ImageInfinity.png",
+      iconLists: ["/Js.svg", "/html.svg", "/css.svg"],
+      link: "https://imageinfinity.vercel.app",
+    },
+    
   ];
   
   export const testimonials = [
